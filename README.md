@@ -48,6 +48,7 @@
 
 Here are a few projects I've built:
 
+* 🗃 Inventory and Order Management (PERN)
 * 🩺 Doctor Appointment Booking System (MERN Stack)
 * 🩸 Blood Bank Management System
 * 🌐 Personal portfolio website 
